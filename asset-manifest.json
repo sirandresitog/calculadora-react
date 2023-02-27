@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/calculadora-react/static/css/main.50ae4264.css",
-    "main.js": "/calculadora-react/static/js/main.b0c78c22.js",
-    "static/media/freecodecamp-logo.png": "/calculadora-react/static/media/freecodecamp-logo.5486935b905c7949600c.png",
+    "main.css": "/calculadora-react/static/css/main.60595cc6.css",
+    "main.js": "/calculadora-react/static/js/main.7e0f64f6.js",
+    "static/media/andres.png": "/calculadora-react/static/media/andres.cbc272b56aabdccf595b.png",
     "index.html": "/calculadora-react/index.html",
-    "main.50ae4264.css.map": "/calculadora-react/static/css/main.50ae4264.css.map",
-    "main.b0c78c22.js.map": "/calculadora-react/static/js/main.b0c78c22.js.map"
+    "main.60595cc6.css.map": "/calculadora-react/static/css/main.60595cc6.css.map",
+    "main.7e0f64f6.js.map": "/calculadora-react/static/js/main.7e0f64f6.js.map"
   },
   "entrypoints": [
-    "static/css/main.50ae4264.css",
-    "static/js/main.b0c78c22.js"
+    "static/css/main.60595cc6.css",
+    "static/js/main.7e0f64f6.js"
   ]
 }
